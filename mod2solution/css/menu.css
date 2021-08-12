@@ -1,0 +1,57 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.Waffles {
+  float: left;
+  width: 25%;
+  margin: 10px;
+  background-color: #A52A2A;
+  border: 1px solid black;
+  position: relative;
+}
+
+.Pancakes {
+  float: left;
+  width: 25%;
+  margin: 10px;
+  background-color: #DEB887;
+  border: 1px solid black;
+  position: relative;
+}
+
+.Sandwiches {
+  float: left;
+  width: 25%;
+  margin: 10px;
+  background-color: #5F9EA0;
+  border: 1px solid black;
+  position: relative;
+}
+
+#WaffleHeader {
+  border: 1px solid black;
+  position: relative;
+  width: 25%;
+  left: 75%;
+}
+
+#PancakeHeader {
+  border: 1px solid black;
+  position: relative;
+  width: 25%;
+  left: 75%;
+}
+
+#PancakeContent {
+  margin-top: 10px;
+}
+
+#SandwichHeader {
+  border: 1px solid black;
+  position: relative;
+  top: -20px;
+  width: 25%;
+  left: 75%;
+}
