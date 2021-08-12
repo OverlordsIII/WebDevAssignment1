@@ -33,13 +33,15 @@
 #WaffleHeader {
   position: relative;
   width: 25%;
-  left: 40%;
+  top: -25px;
+  left: 70%;
 }
 
 #PancakeHeader {
   position: relative;
   width: 25%;
-  left: 40%;
+  top: -25px;
+  left: 70%;
 }
 
 #PancakeContent {
@@ -49,7 +51,8 @@
 #SandwichHeader {
   position: relative;
   width: 25%;
-  left: 40%;
+  top: -25px;
+  left: 70%;
 }
 
 @media (min-width: 768px) and (max-width: 961px) {
